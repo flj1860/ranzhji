@@ -1,6 +1,0 @@
-git init
-git add "documents_name"
-git commit -m "describe"
-git pull   Í¬²½´úÂë
-git remote add origin https://github.com/flj1860/ran.git
-git push -u origin master
