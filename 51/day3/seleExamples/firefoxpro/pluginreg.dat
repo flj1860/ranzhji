@@ -1,0 +1,15 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.18t|$
+Arch|x86_64-msvc|$
+
+[PLUGINS]
+
+[INVALID]
+C:\Program Files (x86)\Foxit Software\Foxit Reader\plugins\npFoxitReaderPlugin.dll|$
+1505209046000|$
+C:\Users\Administrator\AppData\Roaming\Tencent\WebGamePlugin\1.0.4.3\npqqwebgame.dll|$
+1445322560000|$
+C:\Users\Administrator\AppData\Roaming\Zoom\bin\npzoomplugin.dll|$
+1510285028561|$
